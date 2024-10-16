@@ -1,0 +1,14 @@
+C:\Users\caior\estudos\dio\DesafioHospedagem\obj\Debug\net8.0\DesafioHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caior\estudos\dio\DesafioHospedagem\obj\Debug\net8.0\DesafioHospedagem.AssemblyInfoInputs.cache
+C:\Users\caior\estudos\dio\DesafioHospedagem\obj\Debug\net8.0\DesafioHospedagem.AssemblyInfo.cs
+C:\Users\caior\estudos\dio\DesafioHospedagem\obj\Debug\net8.0\DesafioHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\caior\estudos\dio\DesafioHospedagem\bin\Debug\net8.0\DesafioHospedagem.exe
+C:\Users\caior\estudos\dio\DesafioHospedagem\bin\Debug\net8.0\DesafioHospedagem.deps.json
+C:\Users\caior\estudos\dio\DesafioHospedagem\bin\Debug\net8.0\DesafioHospedagem.runtimeconfig.json
+C:\Users\caior\estudos\dio\DesafioHospedagem\bin\Debug\net8.0\DesafioHospedagem.dll
+C:\Users\caior\estudos\dio\DesafioHospedagem\bin\Debug\net8.0\DesafioHospedagem.pdb
+C:\Users\caior\estudos\dio\DesafioHospedagem\obj\Debug\net8.0\DesafioHospedagem.dll
+C:\Users\caior\estudos\dio\DesafioHospedagem\obj\Debug\net8.0\refint\DesafioHospedagem.dll
+C:\Users\caior\estudos\dio\DesafioHospedagem\obj\Debug\net8.0\DesafioHospedagem.pdb
+C:\Users\caior\estudos\dio\DesafioHospedagem\obj\Debug\net8.0\DesafioHospedagem.genruntimeconfig.cache
+C:\Users\caior\estudos\dio\DesafioHospedagem\obj\Debug\net8.0\ref\DesafioHospedagem.dll
